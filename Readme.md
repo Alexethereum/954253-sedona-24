@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Александр Голдберг](https://up.htmlacademy.ru/htmlcss/24/user/954253).
-* Наставник: [Магомед Кандаев] (https://htmlacademy.ru/profile/magomedkandaev).
+* Наставник: [Магомед Кандаев](https://htmlacademy.ru/profile/magomedkandaev).
 
 ---
 
